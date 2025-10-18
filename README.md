@@ -47,5 +47,3 @@ Once connected to the server, the app will be able to send and fetch data in rea
 You can provide an APK download link here for users to try the app directly. Example format:
 
 Download APK: [https://drive.google.com/file/d/1iIbO3DJ6p1Wky97SqjCTy63K4ZLG9jnL/view?usp=drive_link]
-
-
